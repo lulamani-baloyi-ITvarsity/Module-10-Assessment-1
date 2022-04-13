@@ -1,0 +1,56 @@
+#submitForm {
+    background-color: #6b0a12a4;
+    border: solid 2px rgb(15, 15, 2);
+    border-radius: 5em;
+    color: white;
+    width: 51%;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#getData {
+    font-size: 16px;
+    color: white;
+    padding: 15px 32px;
+    border-radius: 1em;
+    background-color: #3a0314;
+    border: solid 2px #3a0314;
+    width: 63%;
+    text-align: center;
+    display: inline-block;
+}
+
+#getList {
+    font-size: 16px;
+    color: white;
+    padding: 15px 32px;
+    border-radius: 1em;
+    background-color: #3a0314;
+    border: solid 2px #3a0314;
+    width: 63%;
+    text-align: center;
+    display: inline-block;
+}
+
+#firstname {
+    text-align: center;
+    border: solid 2px #3a0314;
+    color: #3a0314;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    padding: 10px 25px;
+}
+
+#lastname {
+    text-align: center;
+    border: solid 2px #3a0314;
+    color: #3a0314;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    padding: 10px 25px;
+}
